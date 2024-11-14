@@ -1,10 +1,10 @@
 export const data = {
-    name: "Achyut Duggal",
+    name: "Kunduru Santosh Reddy",
     role: "Software Engineer",
     availability: "open",
     location: "Hyderabad",
     email: "achyut1234duggal@gmail.com",
-    image: "./profilepic.jpg",
+    image: "./neww.jpg",
     resume: "https://drive.google.com/file/d/1AndKtbfOKIjdgWg1RdeLoL06RiyLjFYi/view?usp=sharing",
     experience: [
       {
@@ -39,7 +39,7 @@ export const data = {
       {
         image: "./vit.jpeg",
         title: "Vellore Institute of Technology, Vellore",
-        description: "Bachelor of Technology in Computer Science",
+        description: "Bachelor of Technology in Computer Science and Business Systems",
         tags: ["Vice Chairperson at roboVITics"],
         href: "https://vit.ac.in/",
       },
