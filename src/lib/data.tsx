@@ -1,12 +1,21 @@
 export const data = {
-    name: "Kunduru Santosh Reddy",
+    name: "Achyut Duggal",
     role: "Software Engineer",
     availability: "open",
     location: "Hyderabad",
     email: "achyut1234duggal@gmail.com",
-    image: "./neww.jpeg",
+    image: "./profilepic.jpeg",
     resume: "https://drive.google.com/file/d/1AndKtbfOKIjdgWg1RdeLoL06RiyLjFYi/view?usp=sharing",
     experience: [
+      {
+        title: "Lamarr",
+        image: "./lamarr.jpeg",
+        description: "Flutter Engineer",
+        role: "Flutter Engineer",
+        tags: ["Present"],
+        href: "https://www.linkedin.com/company/lamarrtech",
+        duration: "Present",
+      },
       {
         title: "Vertune (prepAIro)",
         image: "./stealth.jpeg",
