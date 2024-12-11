@@ -4,7 +4,7 @@ export const data = {
     availability: "open",
     location: "Hyderabad",
     email: "achyut1234duggal@gmail.com",
-    image: "./profilepic.jpeg",
+    image: "./profilepic.jpg",
     resume: "https://drive.google.com/file/d/1AndKtbfOKIjdgWg1RdeLoL06RiyLjFYi/view?usp=sharing",
     experience: [
       {
